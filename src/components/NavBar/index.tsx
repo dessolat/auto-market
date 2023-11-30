@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import cl from './NavBar.module.scss';
+import cl from './index.module.scss';
 import { linksType } from './types';
 
 const NavBar = () => {
